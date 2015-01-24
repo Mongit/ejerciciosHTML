@@ -1,2 +1,2 @@
-# ejerciciosHTML
-ejercicios del libro HTML JavaScript
+# Ejercicios HTML
+Ejercicios del libro HTML JavaScript.
